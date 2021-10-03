@@ -29,7 +29,7 @@
             "githubURL": "<Your GitHub profile URL>"
         }
    ```
- 4. Commit the Changes and make a PR and wait it to get merged
+ 4. Commit the changes and make a PR and wait it to get merged.
 
 # Tech Stack
   - Flutter
